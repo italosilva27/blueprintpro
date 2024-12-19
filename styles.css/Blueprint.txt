@@ -1,0 +1,114 @@
+/* Resetando estilos padrões */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f7f7f7;
+  color: #333;
+  padding: 0 20px;
+}
+
+h1, h2 {
+  color: #0073e6;
+}
+
+/* Cabeçalho */
+.hero {
+  background: #0073e6;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.hero .btn {
+  background-color: #ff9900;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 1rem;
+  border-radius: 5px;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.hero .btn:hover {
+  background-color: #e68900;
+}
+
+/* Seções */
+section {
+  padding: 40px 20px;
+  margin: 20px 0;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+ol, ul {
+  margin-left: 20px;
+  font-size: 1.1rem;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.depoimento {
+  margin-top: 20px;
+  font-style: italic;
+}
+
+.depoimento span {
+  display: block;
+  margin-top: 5px;
+  text-align: right;
+  font-weight: bold;
+}
+
+form input[type="text"], form input[type="email"], form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+
+  section {
+    padding: 20px;
+  }
+}

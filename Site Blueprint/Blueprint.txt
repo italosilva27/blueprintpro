@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blueprint Pro</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Cabeçalho -->
+  <section class="hero">
+    <h1>Blueprint Pro: O Seu Roteiro Digital Personalizado</h1>
+    <p>Transforme seu potencial em resultados reais com estratégias feitas sob medida para você.</p>
+    <a href="#formulario" class="btn">Comece Agora</a>
+  </section>
+
+  <!-- Como Funciona -->
+  <section class="como-funciona">
+    <h2>Como Funciona o Blueprint Pro</h2>
+    <ol>
+      <li>Responda ao nosso diagnóstico rápido sobre suas metas e desafios.</li>
+      <li>Receba um roteiro estratégico personalizado para o seu negócio.</li>
+      <li>Aplique as estratégias e alcance resultados reais.</li>
+    </ol>
+  </section>
+
+  <!-- Depoimentos -->
+  <section class="depoimentos">
+    <h2>O que dizem sobre o Blueprint Pro</h2>
+    <div class="depoimento">
+      <p>"Com o Blueprint Pro, finalmente consegui entender as estratégias certas para o meu nicho. Em poucas semanas, vi resultados incríveis!"</p>
+      <span>- Joana S.</span>
+    </div>
+    <div class="depoimento">
+      <p>"Eu sempre ficava perdido no marketing digital. Agora, tenho um plano claro e focado. Super recomendo!"</p>
+      <span>- Carlos M.</span>
+    </div>
+  </section>
+
+  <!-- Formulário de Diagnóstico -->
+  <section id="formulario" class="formulario">
+    <h2>Comece Agora Seu Diagnóstico</h2>
+    <p>Responda algumas perguntas e receba o seu roteiro estratégico em até 24 horas!</p>
+    <a href="https://forms.gle/SEUFORMULARIO" class="btn">Preencher Diagnóstico</a>
+  </section>
+
+  <!-- Oferta de Upgrade -->
+  <section class="upgrade">
+    <h2>Quer Resultados Mais Rápidos?</h2>
+    <p>Com o Blueprint Pro Premium, você recebe:</p>
+    <ul>
+      <li>Um roteiro mais detalhado</li>
+      <li>Suporte direto para suas dúvidas</li>
+      <li>Estratégias exclusivas para escalar o seu negócio</li>
+    </ul>
+    <p>Apenas R$297!</p>
+    <a href="https://wa.me/seunumerodetelefone" class="btn">Quero o Premium</a>
+  </section>
+
+  <!-- Contato -->
+  <section class="contato">
+    <h2>Fale Conosco</h2>
+    <p>Tem dúvidas? Estamos aqui para ajudar!</p>
+    <a href="https://wa.me/seunumerodetelefone" class="btn">Contatar no WhatsApp</a>
+    <p>ou envie um e-mail para <a href="mailto:seuemail@dominio.com">seuemail@dominio.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Blueprint Pro</p>
+  </footer>
+
+</body>
+</html>
